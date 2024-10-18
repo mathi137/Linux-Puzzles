@@ -1,0 +1,12 @@
+# TODO List
+
+[x] - Criar usuários                        @priority(1)
+[ ] - Configurar o SSH                      @priority(2)
+[ ] - Configurar permissões dos usuários    @priority(3)
+[ ] - Criar fases                           @priority(2)
+[ ] - Desenvolver SSH Client no Unity       @priority(4)
+
+# Categórias
+## Docker
+
+## Unity Client
